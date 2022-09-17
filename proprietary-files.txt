@@ -1,4 +1,4 @@
-# Common proprietary files - from UL-ASUS_X01BD-WW-17.2018.2012.434-user build, unless pinned
+# proprietary files - from asus/ASUS_X00TD/ASUS_X00TD:10/QKQ1/17.2017.2012.438-20201203:user/release-keys, unless pinned
 
 # ADSP
 vendor/bin/adsprpcd
